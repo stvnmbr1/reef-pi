@@ -2,9 +2,9 @@ Key,Translation
 add,Toevoegen
 alerts,Meldingen
 analog_input,Analoge Input
-analog_inputs,
+analog_inputs,Analoge Inputs
 are_you_sure,Ben je zeker?
-ato,
+ato,ATO
 cancel,Annuleren
 clear,Resetten
 configure,Instellen
@@ -12,27 +12,27 @@ delete,Verwijderen
 disabled,Uitgeschakeld
 documentation,Documentatie
 done,Gereed
-doser,
-driver,
+doser,Doseerpomp
+driver,Driver
 edit,Bewerken
 enabled,Ingeschakeld
-equipment,
+equipment,Onderdelen
 errors,Foutmeldingen
-health,
-in-use,
+health,Gezondheid
+in-use,In gebruik
 inlet,Ingang
-inlets,
-jack,
-jacks,
-light,
-loading,Laden
+inlets,Ingangen
+jack,Jack
+jacks,Jacks
+light,Licht
+loading,Bezig met laden
 name,Naam
 none,Niets
 ok,Ok
-outlet,
-outlets,
-pin,
-reverse,
+outlet,Uitgang
+outlets,Uitgangen
+pin,Pin
+reverse,Omgekeerd
 running,Actief
 save,Opslaan
 sec,sec
@@ -48,10 +48,10 @@ ato:chk_freq,Controleer Frequentie
 ato:chk_freq_number,Controleer Frequentie moet een nummer zijn
 ato:chk_freq_number_value,Controleer Frequentie moet 1 seconde or meer zijn
 ato:chk_freq_required,Controleer Frequentie is nodig
-ato:control_pump,Controleert Pomp
-ato:controlequipment,
-ato:controlmacro,
-ato:controlnothing,
+ato:control_pump,Controleert pomp
+ato:controlequipment,Controleert onderdeel
+ato:controlmacro, Controleert macro
+ato:controlnothing, Controleert niets
 ato:disable_on_alert,Uitschakelen bij alarm
 ato:inlet_required,Ingang is nodig
 ato:name_required,Naam is nodig
@@ -122,9 +122,9 @@ configuration:tab:telemetry,Monitoring
 cron:day_of_month,Dag van de maand
 cron:hour,Uur
 cron:minute,Minuut
-cron:month,
+cron:month,Maand
 cron:second,Seconde
-cron:week,
+cron:week,Week
 dashboard:back_to_dashboard,Terug naar dashboard
 fatal_error:connection_lost,Connectie verloren
 fatal_error:fatal_error,Fatale Fout
@@ -150,8 +150,8 @@ ph:alert_above,Alarm boven
 ph:alert_below,Alarm onder
 ph:analog_input_required,Analoge Input is nodig
 ph:calibrate,Calibreren
-ph:chart:current,
-ph:chart:historical,
+ph:chart:current,Huidig
+ph:chart:historical,Historisch
 ph:check_frequency,Controleer frequentie
 ph:control,
 ph:control_required,
