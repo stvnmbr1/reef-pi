@@ -217,7 +217,7 @@ temperature:upper_threshold,
 temperature:validation_error,De temperatuur instellingen kunnen niet opgeslaan worden door validatiefouten. Gelieve deze te corrigeren en opnieuw te proberen.
 temperature:warn_delete,
 timers:after,Na
-timers:and_then,AEn Daarna
+timers:and_then,En daarna
 timers:day_required,Dag is vereist
 timers:duration_required,Tijdsduur is vereist
 timers:equipment,Uitrusting
